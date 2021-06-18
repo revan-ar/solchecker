@@ -1,6 +1,6 @@
 # SOLANA ($SOL) token checker Multi Address
 
-<img src="example.jpeg" width="60%" alt="Example">
+<img src="example.jpeg" alt="Example">
 
 # How to use ?
 - Edit address.txt file and put solana address list
